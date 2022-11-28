@@ -7,5 +7,7 @@ hello,coke!
 hello,coke!
 hello,coke!
 hello,coke!
+<<<<<<< HEAD
 hello,coke! master
-hello,coke!
+hello,coke! hot-fix
+>>>>>>> hot-fix
