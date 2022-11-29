@@ -12,3 +12,4 @@ hello,coke! master
 hello,coke! hot-fix
 >>>>>>> hot-fix
 121212121211111212
+public
